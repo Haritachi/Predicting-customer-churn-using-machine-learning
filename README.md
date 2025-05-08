@@ -44,6 +44,23 @@ The dataset, sourced from Kaggle, contains 7,043 records of telecom customer dat
 
 The `customerID` column is dropped during preprocessing, and `TotalCharges` is cleaned to handle missing values.
 
+## Exploratory Data Analysis
+Exploratory Data Analysis (EDA) was performed on the `Churn2.csv` dataset to understand the distribution of features and their relationships with the target variable `Churn`. Key analyses include:
+
+- **Churn Distribution**: Examined the balance of churned vs. non-churned customers.
+- **Numerical Features**: Analyzed distributions of `tenure`, `MonthlyCharges`, and `TotalCharges`.
+- **Categorical Features**: Investigated churn rates across categories like `Contract` and `InternetService`.
+- **Correlations**: Explored correlations among numerical features to identify potential relationships.
+
+The following table showcases key EDA visualizations:
+
+| Visualization Description         | Image |
+|----------------------------------|-------|
+| Churn Distribution               | ![Churn Distribution](eda/churn_distribution.png) |
+| Tenure Distribution              | ![Tenure Distribution](eda/tenure_distribution.png) |
+| Churn by Contract Type           | ![Churn by Contract](eda/contract_churn.png) |
+| Correlation Heatmap              | ![Correlation Heatmap](eda/correlation_heatmap.png) |
+
 ## Model Performance
 
  Below is the performance summary:
