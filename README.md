@@ -56,10 +56,10 @@ The following table showcases key EDA visualizations:
 
 | Visualization Description         | Image |
 |----------------------------------|-------|
-| Churn Distribution               | ![Churn Distribution](eda/churn_distribution.png) |
-| Tenure Distribution              | ![Tenure Distribution](eda/tenure_distribution.png) |
-| Churn by Contract Type           | ![Churn by Contract](eda/contract_churn.png) |
-| Correlation Heatmap              | ![Correlation Heatmap](eda/correlation_heatmap.png) |
+| Churn Distribution               | ![Churn Distribution](screenshots/churn_distribution.png) |
+| Tenure Distribution              | ![Tenure Distribution](screenshots/tenure_distribution.png) |
+| Churn by Contract Type           | ![Churn by Contract](screenshots/contract_churn.png) |
+| Correlation Heatmap              | ![Correlation Heatmap](screenshots/correlation_heatmap.png) |
 
 ## Model Performance
 
