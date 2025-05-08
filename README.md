@@ -1,5 +1,22 @@
 # Customer Churn Prediction
 
+[![Project](https://img.shields.io/badge/Project-Churn_Prediction-blue)](https://github.com/your-username/customer-churn-updates)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-Unlicense-green)](https://unlicense.org/)
+[![Random Forest](https://img.shields.io/badge/Model-Random_Forest-orange)](https://scikit-learn.org/stable/modules/ensemble.html#random-forests)
+[![Decision Tree](https://img.shields.io/badge/Model-Decision_Tree-orange)](https://scikit-learn.org/stable/modules/tree.html)
+[![Scikit-learn](https://img.shields.io/badge/Library-Scikit--learn-yellow?logo=scikit-learn)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Library-Pandas-blue)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/Library-NumPy-blue)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-purple?logo=python)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Library-Seaborn-purple)](https://seaborn.pydata.org/)
+[![Imbalanced-learn](https://img.shields.io/badge/Library-Imbalanced--learn-yellow)](https://imbalanced-learn.org/)
+[![CustomTkinter](https://img.shields.io/badge/Library-CustomTkinter-lightblue)](https://github.com/TomSchimansky/CustomTkinter)
+[![Pickle](https://img.shields.io/badge/Library-Pickle-blue)](https://docs.python.org/3/library/pickle.html)
+[![Machine Learning](https://img.shields.io/badge/Domain-Machine_Learning-blue)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Data Science](https://img.shields.io/badge/Domain-Data_Science-blue)](https://en.wikipedia.org/wiki/Data_science)
+[![Final Year Project](https://img.shields.io/badge/Status-Final_Year_Project-green)](https://github.com/topics/final-year-project)
+
 ## Overview
 
 This project develops a machine learning-based system to predict customer churn for a telecommunications company. Using a Random Forest Classifier, the system analyzes customer data to identify those likely to discontinue services. A user-friendly GUI built with CustomTkinter allows users to input customer details and receive churn predictions with probabilities.
