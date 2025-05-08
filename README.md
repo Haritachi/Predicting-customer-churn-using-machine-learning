@@ -29,14 +29,12 @@ The `customerID` column is dropped during preprocessing, and `TotalCharges` is c
 
 ## Model Performance
 
-The Random Forest Classifier was evaluated on a test set (20% of the data). Below is the performance summary:
+ Below is the performance summary:
 
-| Metric | Value |
-| --- | --- |
-| Accuracy | 0.80 |
-| Precision (Churn) | 0.75 |
-| Recall (Churn) | 0.70 |
-| F1-Score (Churn) | 0.72 |
+| Model          | Accuracy | Precision | Recall | F1-score |
+|----------------|----------|-----------|--------|----------|
+| Decision Tree  | ~77%     | ~66%      | ~55%   | ~60%     |
+| Random Forest  | ~79%     | ~69%      | ~57%   | ~62%     |
 
 *Note*: These metrics are illustrative, as the script does not explicitly compute them. Users can add evaluation code to generate precise metrics.
 
