@@ -108,8 +108,8 @@ The Random Forest Classifier was evaluated on a test set (20% of the data). Belo
 | Description | Screenshot |
 | --- | --- |
 | GUI Input Interface | ![Main Interface](screenshots/UI.png) |
-| Prediction Result (Churn) | ![Churn](Screenshots/Churn.png) |
-| Prediction Result (No Churn) | ![NoChurn](Screenshots/NoChurn.png) |
+| Prediction Result (Churn) | ![Churn](screenshots/Churn.png)|
+| Prediction Result (No Churn) | ![NoChurn](screenshots/NoChurn.png) |
 
 
 ## Future Work
